@@ -14,6 +14,6 @@ From the first industrial revolution signaled by the invention of steam power to
 Project description
 
 Side channel attack on 3d printers
-https://vimeo.com/538492357
+[https://github.com/Sangram-Rout/Industry-4.0/blob/main/360.JPG] https://vimeo.com/538492357
 
 
